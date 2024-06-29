@@ -1,5 +1,5 @@
 # NDVI-Valle-de-Bravo
-<a href="https://nicolasgls.shinyapps.io/Explorador_NDVI_VDB/"><b>Aplicación Shiny para explorar imágenes NDVI Valle de Bravo</b></a>
+<a href="https://nicolasgls.shinyapps.io/Explorador_NDVI_VDB/"><b>Aplicación Shiny para explorar imágenes NDVI de Valle de Bravo</b></a>
 
 <p>
 El <b>Índice de Vegetación de Diferencia Normalizada (NDVI)</b> es un indicador utilizado para analizar la densidad y salud de la vegetación mediante imágenes satelitales. El NDVI se calcula a partir de la diferencia entre las bandas 8 y 4, normalizada por la suma de ambas bandas (<b>NDVI = (B8-B4)(B8+B4)</b>). Su valor oscila entre -1 y 1. Los valores negativos de NDVI (valores cercanos a -1) corresponden a cuerpos de agua. Los valores cercanos a cero (-0.1 a 0.1) generalmente corresponden a áreas desérticas de roca, arena o nieve. Los valores positivos bajos representan áreas de arbustos y pastizales (aproximadamente 0.2 a 0.4), mientras que los valores altos indican bosques templados y tropicales (valores cercanos a 1). (<a href="https://custom-scripts.sentinel-hub.com/sentinel-2/ndvi/">https://custom-scripts.sentinel-hub.com/sentinel-2/ndvi/</a>)
